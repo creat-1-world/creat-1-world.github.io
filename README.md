@@ -1,1 +1,1 @@
-<center>"可视化报表"</center>
+<h1 style="text-align: center;">"可视化报表"</h1>
